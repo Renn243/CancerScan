@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">The Result Is 😌</string>
+    <string name="image_classifier_failed" />
+    <string name="save">Save</string>
+    <string name="history">History</string>
+    <string name="hello_keep_healthy">Hello👋, keep healthy</string>
+    <string name="empty" />
+    <string name="breaking_news">Breaking News!!</string>
+    <string name="check_your_skin_condition">check your skin condition🔥</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="img">img</string>
+</resources>
